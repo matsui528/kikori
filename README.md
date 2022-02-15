@@ -1,6 +1,18 @@
 # 木こり
-
 - 薪便利スクリプト集
+
+
+```mermaid
+gantt
+dateFormat  YYYY-MM-DD
+
+薪1               :         des1, 2022-02-15, 3d
+薪2               :         des2, after des1, 3d
+薪3               :         des3, after des2, 3d
+薪4               :         des4, after des3, 3d
+```
+
+
 
 
 ## ランダムソート
