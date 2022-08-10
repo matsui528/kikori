@@ -35,8 +35,8 @@ jobs:
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1
         with:
-          # Selected files to upload
-          path: 'README.md'
+          # Select a directory to upload
+          path: 'web'
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@main
