@@ -49,7 +49,11 @@ dateFormat  YYYY-MM-DD
 ```
 
 
-
+## Actionsから静的htmlを作成するテスト
+- [テストページ](https://matsui528.github.io/kikori/fuga.html)。この内容はActionsで自動生成されている。[pages.yml](https://github.com/matsui528/kikori/blob/main/.github/workflows/pages.yml)を参考。
+- [html以外もおける](https://matsui528.github.io/kikori/piyo.txt)
+- [公式のここ](https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site#publishing-with-a-custom-github-actions-workflow)を参考にする。
+- ディレクトリを指定する必要がある
 
 
 ## ランダムソート
