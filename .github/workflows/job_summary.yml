@@ -9,3 +9,4 @@ jobs:
       - name: Job Summary
         run: |
           ls ${{ github.workspace }}
+          echo "### Hello world! :rocket:" >> $GITHUB_STEP_SUMMARY
