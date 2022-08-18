@@ -55,6 +55,10 @@ dateFormat  YYYY-MM-DD
 - [公式のここ](https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site#publishing-with-a-custom-github-actions-workflow)を参考にする。
 - ディレクトリを指定する必要がある
 
+## Actionsの結果表示画面にマークダウンで作る
+- [記事](https://github.blog/2022-05-09-supercharging-github-actions-with-job-summaries/)
+- [ドキュメント](https://docs.github.com/en/actions/using-workflows/workflow-commands-for-github-actions#adding-a-job-summary)
+- [このように書くと](https://github.com/matsui528/kikori/blob/main/.github/workflows/job_summary.yml)、[このようになる](https://github.com/matsui528/kikori/actions/runs/2879841508)
 
 ## ランダムソート
 発表順番を決めるときとか
