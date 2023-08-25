@@ -80,3 +80,6 @@ $ python sort_name.py
 ## 人間のアサインを決める
 N人の人間をM個のスロットに配置したい。ここでそれぞれの予定を聞き、一番無理がないように配置する
 - [座長配置問題](https://github.com/matsui528/zatyou)
+
+## 論文の文献情報管理
+- [CSVでまとめて管理し、必要に応じてレンダリング](https://github.com/matsui528/timberpile)
